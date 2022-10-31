@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello
 
 <!--
 **HenriTroyot/HenriTroyot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+For more than twenty years I worked in [DevExpress](https://www.devexpress.com/) as a technical writer.  
+Currently, I'm searching for a new career opportunity in IT.
+
+My resume:  
+[Technical writer or System analyst - in Russian](Resumes/cv-tw-sa-ru.md)
