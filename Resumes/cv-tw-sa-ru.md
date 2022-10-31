@@ -3,7 +3,7 @@
 ## Опыт работы:
 
 ### DevExpress (ООО «Девелопер Софт», Тула)
-Август 2000 — апрель 2022 (21 год 9 месяцев)  
+_Август 2000 — апрель 2022 (21 год 9 месяцев)_  
 [devexpress.com](https://www.devexpress.com), [developersoft.ru](https://www.developersoft.ru/)  
 
 #### Senior technical writer
@@ -19,55 +19,55 @@
 - Внедрена система сбора и анализа клиентского фидбека на топики документации.
 - "Воспитаны" 10 учеников, трое из которых продолжают работать в компании на senior+ позициях.
 
-**Администрирование .NET-ориентированного документационного инструментария:**  
+_**Администрирование .NET-ориентированного документационного инструментария:**_  
 С начала 2000-х по 2018 организовывал цикл по созданию-генерации документации по .NET продуктам с помощью внутреннего набора инструментов (SQL+XML, CMS-like tool, CMD files, CI tasks). Работало так: https://bit.ly/DXHelpTracker
 
-**Разработка централизованной системы хранения примеров кода:**  
+_**Разработка централизованной системы хранения примеров кода:**_  
 Осознана необходимость в централизованном хранении и тестировании примеров кода и предоставлении клиентам удобного доступа к хранилищу, с возможностью поиска, просмотра и запуска примеров (в браузере и/или локально). Разработана архитектура и реализован внутренний инструмент (SQL + CI tasks + веб-интерфейс базы знаний) сначала на базе WebForms проектов, а затем и для всей .NET линейки продуктов. Впоследствии хранилище продублировано на GitHub, с сохранением синхронизации с внутренней системой. Информация о системе: https://bit.ly/Blog-CodeCentral
 
-**Создание современного инструментария Docs-as-Code:**  
+_**Создание современного инструментария Docs-as-Code:**_  
 Начиная с 2017, спроектирована, разработана и внедрена эффективная и универсальная в рамках компании система инструментов для документирования разноплатформенных продуктов в концепции docs-as-code (GitLab+DocFX+VSCode, Markdown+Yaml, CI/CD) - автоматическая синхронизация документации с исходным кодом, удобное создание контента, комплексное тестирование документационного контента, генерация документации в необходимые форматы (PDF, CHM, HTML, MSHC), быстрая доставка контента клиентам. Акцент на максимальной автоматизации внутренних рутинных и периодических трудозатратных операций и на удобстве использования документации клиентами. Реализуются уникальные подходы к представлению контента, к автоматической связываемости и интеграции контента различных информационных ресурсов (документация, исходный код продуктов, база кодовых примеров, база знаний саппорта).
 На этапе внедрения (более года) поддержана работоспособность и взаимосинхронизация информации между двумя версиями инструментария (старой и новой): https://bit.ly/DocCtorBlog
 
-**Разработка программного продукта / API management:**  
+_**Разработка программного продукта / API management:**_  
 Активное участие в разработке UI/UX и программной архитектуры продуктов (UI components, libraries), анализ предметной области, сравнение с конкурентами, проведение технических и маркетинговых исследований, влияние на планы развития продуктов и обсуждение вариантов развития с командами.
 
-**Разработка внутрифирменного career pathing framework:**  
+_**Разработка внутрифирменного career pathing framework:**_  
 Участие в нескольких подходах к проблеме, описание ролей/уровней, создание/ревьюирование матриц компетенций.
 
-**Создание системы найма и развития HR бренда:**  
+_**Создание системы найма и развития HR бренда:**_  
 Поиск и найм кандидатов в технические писатели в России, Эстонии, на Кипре (составление и размещение вакансий, тестовых заданий, проведение собеседований, проверка выполненных претендентами заданий, принятие решений о найме).
 
 Профиль на GitHub:
 https://github.com/HenriTroyot
 
 
-**Примеры контента:**  
+_**Примеры контента:**_  
 
 Основные продукты (описанные "с нуля"):  
-https://docs.devexpress.com/AspNet/  
-https://docs.devexpress.com/AspNetMvc/  
+[Documentation: ASP.NET Web Forms Controls](https://docs.devexpress.com/AspNet/)  
+[Documentation: ASP.NET MVC Extensions](https://docs.devexpress.com/AspNetMvc/)  
 
 
-Примеры контента разного типа:  
-https://bit.ly/Doc-ResourceOptimization (Documentation: Built-in Options for Resource Optimization)  
-https://bit.ly/Doc-GridUnboundColumns (Documentation: Unbound Columns in GridView)
-https://bit.ly/Doc-MVC-CustomDataBinding (Documentation: MVC Grid - Custom Data Binding)
-https://bit.ly/Doc-GridToolbars (Documentation: Grid View Toolbars)
-https://bit.ly/Demo-GridToolbars (Demo: Grid View Toolbars)
-https://bit.ly/SC-CodeExample (Code Example: How to ...)
-https://bit.ly/API-Grid-Event (API Documentation: CustomSummaryCalculate event)
-https://bit.ly/API-Tab-ClientEvent (API Documentation: ActiveTabChanging client event)
+Контент разного типа:  
+[Documentation: Built-in Options for Resource Optimization](https://bit.ly/Doc-ResourceOptimization)   
+[Documentation: Unbound Columns in GridView](https://bit.ly/Doc-GridUnboundColumns)  
+[Documentation: MVC Grid - Custom Data Binding](https://bit.ly/Doc-MVC-CustomDataBinding)  
+[Documentation: Grid View Toolbars](https://bit.ly/Doc-GridToolbars) 
+[Demo: Grid View Toolbars](https://bit.ly/Demo-GridToolbars) 
+[Code Example: How to ...](https://bit.ly/SC-CodeExample)  
+[API Documentation: CustomSummaryCalculate event](https://bit.ly/API-Grid-Event)  
+[API Documentation: ActiveTabChanging client event](https://bit.ly/API-Tab-ClientEvent)  
 
-https://bit.ly/Example-CustomFontFamily (Code Example - SurveyJS - Custom Font Family)
-https://bit.ly/Doc-ChangeFonts (Documentation - SurveyJS - Change Fonts)
-https://bit.ly/Doc-GH-CustomRenderQuestionElements (Documentation - SurveyJS - Custom Render - Question Elements)
+[Code Example - SurveyJS - Custom Font Family](https://bit.ly/Example-CustomFontFamily)  
+[Documentation - SurveyJS - Change Fonts](https://bit.ly/Doc-ChangeFonts)  
+[Documentation - SurveyJS - Custom Render - Question Elements](https://bit.ly/Doc-GH-CustomRenderQuestionElements)  
 
-https://bit.ly/BC-ComplexSerializableTypes (Breaking Change article)
-https://bit.ly/KB-BC-ComplexSerializableTypes (Knowledge Base article)
-https://bit.ly/KB-OptimizeMenu (KB: How to optimize the ASPxMenu control)
+[Breaking Change article](https://bit.ly/BC-ComplexSerializableTypes)  
+[Knowledge Base article](https://bit.ly/KB-BC-ComplexSerializableTypes)  
+[KB: How to optimize the ASPxMenu control](https://bit.ly/KB-OptimizeMenu)  
 
-https://bit.ly/TW-Vacancy (Вакансия Technical Writer - Кипр)
+[Вакансия Technical Writer - Кипр](https://bit.ly/TW-Vacancy)  
 
 
 
@@ -75,7 +75,7 @@ https://bit.ly/TW-Vacancy (Вакансия Technical Writer - Кипр)
 
 
 ### Газета Компьютерра+Тула
-Сентябрь 1999 — декабрь 2000 (1 год 4 месяца)
+_Сентябрь 1999 — декабрь 2000 (1 год 4 месяца)_
 
 #### Издатель, редактор
 В рамках проекта "Компьютерра+" издательского дома Компьютерра организовал в Туле выход еженедельной газеты Компьютерра+Тула (нашел местных рекламодателей и авторов, наладил печать и сбыт).
@@ -85,7 +85,7 @@ https://bit.ly/TW-Vacancy (Вакансия Technical Writer - Кипр)
 
 
 ### Роспромбанк, Тульский филиал
-Февраль 2000 — июль 2000 (6 месяцев)
+_Февраль 2000 — июль 2000 (6 месяцев)_
 
 #### Ведущий IT-специалист
 Системное администрирование компьютерной сети филиала.
@@ -97,7 +97,7 @@ https://bit.ly/TW-Vacancy (Вакансия Technical Writer - Кипр)
 
 
 ### Банк ВТБ, Тульский филиал
-Сентябрь 1997 — август 1999 (2 года)
+_Сентябрь 1997 — август 1999 (2 года)_
 
 #### Старший инженер-программист
 Конфигурирование и сопровождение параллельно двух банковских систем «операционный день» (ЛИМ и Диасофт). Один из запомнившихся результатов – успешное проведение в сжатые сроки одновременно деноминации и перехода на новый план счетов сразу в обеих системах (1998).
@@ -108,7 +108,7 @@ https://bit.ly/TW-Vacancy (Вакансия Technical Writer - Кипр)
 
 
 ### АК Туламашзавод  
-Июнь 1994 - сентябрь 1997 (3 года 4 месяца)
+_Июнь 1994 - сентябрь 1997 (3 года 4 месяца)_
 
 #### Специалист по внешне-экономической деятельности
 Ноябрь 1996 — сентябрь 1997 (11 месяцев)  
@@ -120,7 +120,7 @@ https://bit.ly/TW-Vacancy (Вакансия Technical Writer - Кипр)
 
 
 #### Инженер по информационной безопасности
-Июнь 1994 — ноябрь 1996 (2 года 6 месяцев)
+_Июнь 1994 — ноябрь 1996 (2 года 6 месяцев)_
 
 Обеспечение условий безопасного использования различных средств связи и компонентов компьютерных систем с целью недопущения внешней утечки закрытой/секретной информации (коммерческая/государственная тайна).
 Проведение технических экспертиз на возможные программные и физические закладки.
@@ -133,7 +133,7 @@ https://bit.ly/TW-Vacancy (Вакансия Technical Writer - Кипр)
 ## Высшее образование:
 
 ### Тульский государственный университет, Тула
-1988 - 1993  
+_1988 - 1993_  
 Техническая кибернетика, Вычислительные машины, комплексы, системы и сети
 
 
@@ -144,32 +144,41 @@ https://bit.ly/TW-Vacancy (Вакансия Technical Writer - Кипр)
 
 
 ## Компетенции и ключевые навыки:
-C#
-JavaScript
-HTML
-CSS
-ООП
-.NET Framework
-MS SQL
-MS Visual Studio
-ASP.NET
-MS SQL Server
-XML
-Английский язык
-MVC
-Borland Delphi
-DocFx
-TypeDoc
-TSDoc
-JSDoc
-TypeScript
-Git
-JSON
-YAML
-Agile Project Management
-Windows Forms
-WPF
-GitLab
+Английский язык, 
+ООП, 
+Agile Project Management, 
+Git, 
+
+.NET Framework, 
+ASP.NET, 
+ASP.NET MVC, 
+Windows Forms, 
+WPF, 
+
+C#, 
+TypeScript, 
+JavaScript, 
+HTML, 
+CSS, 
+Object Pascal,
+
+MS SQL, 
+ADO .NET, 
+
+MS Visual Studio, 
+Borland Delphi, 
+
+XML, 
+JSON, 
+YAML, 
+
+TypeDoc, 
+TSDoc, 
+JSDoc, 
+
+DocFx, 
+
+GitLab, 
 GitHub
 
 
