@@ -20,14 +20,14 @@ _Август 2000 — апрель 2022 (21 год 9 месяцев)_
 - "Воспитаны" 10 учеников, трое из которых продолжают работать в компании на senior+ позициях.
 
 _**Администрирование .NET-ориентированного документационного инструментария:**_  
-С начала 2000-х по 2018 организовывал цикл по созданию-генерации документации по .NET продуктам с помощью внутреннего набора инструментов (SQL+XML, CMS-like tool, CMD files, CI tasks). Работало так: https://bit.ly/DXHelpTracker
+С начала 2000-х по 2018 организовывал цикл по созданию-генерации документации по .NET продуктам с помощью внутреннего набора инструментов (SQL+XML, CMS-like tool, CMD files, CI tasks). Работало так: [Ворочаем большими объёмами документации / Хабр](https://bit.ly/DXHelpTracker)
 
 _**Разработка централизованной системы хранения примеров кода:**_  
-Осознана необходимость в централизованном хранении и тестировании примеров кода и предоставлении клиентам удобного доступа к хранилищу, с возможностью поиска, просмотра и запуска примеров (в браузере и/или локально). Разработана архитектура и реализован внутренний инструмент (SQL + CI tasks + веб-интерфейс базы знаний) сначала на базе WebForms проектов, а затем и для всей .NET линейки продуктов. Впоследствии хранилище продублировано на GitHub, с сохранением синхронизации с внутренней системой. Информация о системе: https://bit.ly/Blog-CodeCentral
+Осознана необходимость в централизованном хранении и тестировании примеров кода и предоставлении клиентам удобного доступа к хранилищу, с возможностью поиска, просмотра и запуска примеров (в браузере и/или локально). Разработана архитектура и реализован внутренний инструмент (SQL + CI tasks + веб-интерфейс базы знаний) сначала на базе WebForms проектов, а затем и для всей .NET линейки продуктов. Впоследствии хранилище продублировано на GitHub, с сохранением синхронизации с внутренней системой. Информация о системе: [DevExpress CodeCentral Tips / Blog](https://bit.ly/Blog-CodeCentral)
 
 _**Создание современного инструментария Docs-as-Code:**_  
 Начиная с 2017, спроектирована, разработана и внедрена эффективная и универсальная в рамках компании система инструментов для документирования разноплатформенных продуктов в концепции docs-as-code (GitLab+DocFX+VSCode, Markdown+Yaml, CI/CD) - автоматическая синхронизация документации с исходным кодом, удобное создание контента, комплексное тестирование документационного контента, генерация документации в необходимые форматы (PDF, CHM, HTML, MSHC), быстрая доставка контента клиентам. Акцент на максимальной автоматизации внутренних рутинных и периодических трудозатратных операций и на удобстве использования документации клиентами. Реализуются уникальные подходы к представлению контента, к автоматической связываемости и интеграции контента различных информационных ресурсов (документация, исходный код продуктов, база кодовых примеров, база знаний саппорта).
-На этапе внедрения (более года) поддержана работоспособность и взаимосинхронизация информации между двумя версиями инструментария (старой и новой): https://bit.ly/DocCtorBlog
+На этапе внедрения (более года) поддержана работоспособность и взаимосинхронизация информации между двумя версиями инструментария (старой и новой): [Dual Online Documentation / Blog](https://bit.ly/DocCtorBlog)
 
 _**Разработка программного продукта / API management:**_  
 Активное участие в разработке UI/UX и программной архитектуры продуктов (UI components, libraries), анализ предметной области, сравнение с конкурентами, проведение технических и маркетинговых исследований, влияние на планы развития продуктов и обсуждение вариантов развития с командами.
@@ -53,15 +53,15 @@ _**Примеры контента:**_
 [Documentation: Built-in Options for Resource Optimization](https://bit.ly/Doc-ResourceOptimization)   
 [Documentation: Unbound Columns in GridView](https://bit.ly/Doc-GridUnboundColumns)  
 [Documentation: MVC Grid - Custom Data Binding](https://bit.ly/Doc-MVC-CustomDataBinding)  
-[Documentation: Grid View Toolbars](https://bit.ly/Doc-GridToolbars) 
-[Demo: Grid View Toolbars](https://bit.ly/Demo-GridToolbars) 
+[Documentation: Grid View Toolbars](https://bit.ly/Doc-GridToolbars)  
+[Demo: Grid View Toolbars](https://bit.ly/Demo-GridToolbars)  
 [Code Example: How to ...](https://bit.ly/SC-CodeExample)  
 [API Documentation: CustomSummaryCalculate event](https://bit.ly/API-Grid-Event)  
 [API Documentation: ActiveTabChanging client event](https://bit.ly/API-Tab-ClientEvent)  
 
-[Code Example - SurveyJS - Custom Font Family](https://bit.ly/Example-CustomFontFamily)  
-[Documentation - SurveyJS - Change Fonts](https://bit.ly/Doc-ChangeFonts)  
-[Documentation - SurveyJS - Custom Render - Question Elements](https://bit.ly/Doc-GH-CustomRenderQuestionElements)  
+[Code Example: SurveyJS - Custom Font Family](https://bit.ly/Example-CustomFontFamily)  
+[Documentation: SurveyJS - Change Fonts](https://bit.ly/Doc-ChangeFonts)  
+[Documentation: SurveyJS - Custom Render - Question Elements](https://bit.ly/Doc-GH-CustomRenderQuestionElements)  
 
 [Breaking Change article](https://bit.ly/BC-ComplexSerializableTypes)  
 [Knowledge Base article](https://bit.ly/KB-BC-ComplexSerializableTypes)  
