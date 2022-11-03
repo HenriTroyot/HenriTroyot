@@ -144,42 +144,15 @@ _1988 - 1993_
 
 
 ## Компетенции и ключевые навыки:
-Английский язык, 
-ООП, 
-Agile Project Management, 
-Git, 
-
-.NET Framework, 
-ASP.NET, 
-ASP.NET MVC, 
-Windows Forms, 
-WPF, 
-
-C#, 
-TypeScript, 
-JavaScript, 
-HTML, 
-CSS, 
-Object Pascal,
-
-MS SQL, 
-ADO .NET, 
-
-MS Visual Studio, 
-Borland Delphi, 
-
-XML, 
-JSON, 
-YAML, 
-
-TypeDoc, 
-TSDoc, 
-JSDoc, 
-
-DocFx, 
-
-GitLab, 
-GitHub
+Английский язык, ООП, Agile Project Management, Git,  
+.NET Framework, ASP.NET, ASP.NET MVC, Windows Forms, WPF,  
+C#, TypeScript, JavaScript, HTML, CSS, Object Pascal,  
+MS SQL, ADO .NET,   
+MS Visual Studio, Borland Delphi,  
+XML, JSON, YAML,   
+TypeDoc, TSDoc, JSDoc,   
+DocFx,  
+GitLab, GitHub
 
 
 ## Обо мне:
